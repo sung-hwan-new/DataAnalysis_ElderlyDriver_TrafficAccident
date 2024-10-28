@@ -14,4 +14,4 @@
   - 면허 자진 반납 인센티브 개선
  
 ### 세부 내용
-[<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />](https://velog.io/write?id=ab3b099a-9647-48c8-bec6-22b9f75fcf61)
+[<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />](https://velog.io/@sung_hwan_new/ElderlyDriverTrafficAccident)
